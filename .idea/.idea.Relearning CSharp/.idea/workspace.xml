@@ -27,7 +27,52 @@
     <projectFile>Inheritance/Inheritance.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35cad801-117b-443e-8dc5-a8a20ba723e6" name="Default Changelist" comment="" />
+    <list default="true" id="35cad801-117b-443e-8dc5-a8a20ba723e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_00 Drawing a Shape/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_00 Drawing a Shape/_00 Drawing a Shape.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_14 2DArrays/_14 2DArrays.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_17 Constructors/_17 Constructors.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Relearning CSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Relearning CSharp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A Better Calculator/A Better Calculator.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/_10 A Better Calculator/_10 A Better Calculator.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A Better Calculator/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_10 A Better Calculator/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Arrays.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/_01 Variables/_01 Variables.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_07 Arrays/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Building a Calculator/Building a Calculator.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/_06 Building a Calculator/_06 Building a Calculator.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Building a Calculator/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_06 Building a Calculator/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes And Objects/Book.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_16 Classes And Objects/Book.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes And Objects/Classes And Objects.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/_16 Classes And Objects/_16 Classes And Objects.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes And Objects/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_16 Classes And Objects/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Constructors/Book.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_17 Constructors/Book.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Constructors/Constructors.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/_08 Methods/_08 Methods.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Constructors/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_17 Constructors/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types/Data Types.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/_02 Data Types/_02 Data Types.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_02 Data Types/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drawing a Shape/Drawing a Shape.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drawing a Shape/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Except Handling/Except Handling.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/_15 Except Handling/_15 Except Handling.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Except Handling/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_15 Except Handling/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/For Loops/For Loops.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/_13 For Loops/_13 For Loops.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/For Loops/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_13 For Loops/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Getting User Input/Getting User Input.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/_05 Getting User Input/_05 Getting User Input.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Getting User Input/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_05 Getting User Input/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If Statements/If Statements.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/_09 If Statements/_09 If Statements.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If Statements/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_09 If Statements/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods/Methods.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/_07 Arrays/_07 Arrays.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_08 Methods/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relearning CSharp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Relearning CSharp.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch Statements/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_11 Switch Statements/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch Statements/Switch Statements.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/_11 Switch Statements/_11 Switch Statements.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_01 Variables/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/Variables.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/While Loops/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_12 While Loops/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/While Loops/While Loops.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/_12 While Loops/_12 While Loops.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Working With Numbers/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_04 Working With Numbers/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Working With Numbers/Working With Numbers.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/_04 Working With Numbers/_04 Working With Numbers.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Working With Strings/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_03 Working With Strings/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Working With Strings/Working With Strings.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/_03 Working With Strings/_03 Working With Strings.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2DArrays/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_14 2DArrays/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2DArrays/_2DArrays.csproj" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,9 +90,11 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/_2DArrays/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Drawing a Shape/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/A Better Calculator/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_01 Variables/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_14 2DArrays/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_05 Getting User Input/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_00 Drawing a Shape/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_10 A Better Calculator/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -85,6 +132,7 @@
       <option value="$PROJECT_DIR$/Inheritance/ItalianChef.cs" />
       <option value="$PROJECT_DIR$/Inheritance/Program.cs" />
       <option value="$PROJECT_DIR$/.idea/.idea.Relearning CSharp/.idea/.gitignore" />
+      <option value="$PROJECT_DIR$/.git/info/exclude" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1sdXfEXEsrPvXjhcOWLnoWl0NxP" />
@@ -101,7 +149,7 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.Inheritance">
+  <component name="RunManager" selected=".NET Project.Variables">
     <configuration name="A Better Calculator" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -110,7 +158,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/A Better Calculator/A Better Calculator.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_10 A Better Calculator/_10 A Better Calculator.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -128,7 +176,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Arrays/Arrays.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_07 Arrays/_07 Arrays.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -146,7 +194,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Building a Calculator/Building a Calculator.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_06 Building a Calculator/_06 Building a Calculator.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -164,7 +212,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Classes And Objects/Classes And Objects.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_16 Classes And Objects/_16 Classes And Objects.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -182,7 +230,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Constructors/Constructors.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_17 Constructors/_17 Constructors.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -200,7 +248,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Data Types/Data Types.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_02 Data Types/_02 Data Types.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -218,7 +266,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Except Handling/Except Handling.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_15 Except Handling/_15 Except Handling.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -236,7 +284,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/For Loops/For Loops.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_13 For Loops/_13 For Loops.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -254,7 +302,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Getters And Setters/Getters And Setters.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_19 Getters And Setters/_19 Getters And Setters.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -272,7 +320,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Getting User Input/Getting User Input.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_05 Getting User Input/_05 Getting User Input.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -290,7 +338,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/If Statements/If Statements.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_09 If Statements/_09 If Statements.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -308,7 +356,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Inheritance/Inheritance.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_22 Inheritance/_22 Inheritance.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -326,7 +374,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Methods/Methods.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_08 Methods/_08 Methods.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -344,7 +392,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/More If Statements/More If Statements.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_09 More If Statements/_09 More If Statements.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -362,7 +410,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Object Methods/Object Methods.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_18 Object Methods/_18 Object Methods.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -380,7 +428,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Drawing a Shape/Drawing a Shape.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_00 Drawing a Shape/_00 Drawing a Shape.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -398,7 +446,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Static Class Attributes/Static Class Attributes.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_20 Static Class Attributes/_20 Static Class Attributes.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -416,7 +464,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Static Methods And Classes/Static Methods And Classes.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_21 Static Methods And Classes/_21 Static Methods And Classes.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -434,7 +482,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Switch Statements/Switch Statements.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_11 Switch Statements/_11 Switch Statements.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -452,7 +500,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Variables/Variables.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_01 Variables/_01 Variables.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -470,7 +518,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/While Loops/While Loops.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_12 While Loops/_12 While Loops.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -488,7 +536,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Working With Numbers/Working With Numbers.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_04 Working With Numbers/_04 Working With Numbers.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -506,7 +554,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Working With Strings/Working With Strings.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_03 Working With Strings/_03 Working With Strings.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -524,7 +572,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_2DArrays/_2DArrays.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_14 2DArrays/_14 2DArrays.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -546,7 +594,8 @@
       <workItem from="1621203553420" duration="467000" />
       <workItem from="1621204051463" duration="11244000" />
       <workItem from="1621217261518" duration="1368000" />
-      <workItem from="1621225621887" duration="456000" />
+      <workItem from="1621225621887" duration="847000" />
+      <workItem from="1627245357342" duration="601000" />
     </task>
     <servers />
   </component>
